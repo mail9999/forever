@@ -14,3 +14,22 @@ class Username
         
     }
 }
+echo '你好';
+echo 'hello';
+echo 'hello world';
+echo 'hello world';
+echo 'hello world';
+class nameuser
+{
+    public function aa()
+    {
+
+    }
+}
+class nameuse
+{
+    public function aa()
+    {
+
+    }
+}
