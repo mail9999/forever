@@ -26,3 +26,10 @@ class nameuser
 
     }
 }
+class nameuse
+{
+    public function aa()
+    {
+
+    }
+}
